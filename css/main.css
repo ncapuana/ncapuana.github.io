@@ -1,0 +1,107 @@
+body {
+	background: url(../slice.png) repeat-x left top #fff;
+	background-attachment: fixed;
+	}
+	.container {background: #fff;}
+	.center {text-align: center;}
+	.padding {padding: 20px;}
+	
+	
+	
+	.hero {
+	font-family: 'Raleway', sans-serif;
+	background: url(../IMG_8248@2x.png) no-repeat right top; 
+	background-size: 250px 250px;
+	background-position: right 80px top 40px;
+	height: 305px;
+	}
+	
+	h1 {
+	font-size: 3.4em;
+	font-weight: 600; 
+	margin: 40px 0 0 0;
+	text-transform: uppercase;
+	}
+	
+	
+	.hero ul {list-style-type: disc; margin: 0 0 0 10px;}
+	.hero li {
+	font-size: 1.2em;
+	font-weight: 200; 
+	color: #7BD2DF;
+	 margin: 0; padding: 4px;
+	 line-height: 1.2em;
+	}
+	
+	.hero a {
+	color: #7BD2DF;
+	text-decoration: none;
+	}
+	
+	.hero a:hover {
+	color: #7BD2DF;
+	text-decoration: underline;
+	}
+	
+	.statement {
+	background: url(../star_background.png) no-repeat center fixed; 
+    background-size: cover;
+    min-height: 500px;
+    padding: 50px;
+    color: #D3B3B3;
+    font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	}
+	
+	
+	.products {
+	background-color: #020E1C;
+	color: #E4EFEC; 
+	
+	}
+	
+	.teaching {background-color: #085F6D; color: #47E3C2; padding: 30px;}
+	.teaching h3 {font-size: 1.8em;}
+	.teaching h4 {font-size: 1.4em;}
+	.teaching ul {list-style-type: none; margin-right: auto; margin-left: auto; width: 90%;}
+	
+	.teaching li {
+	background-color: #020E1C; 
+	color: #E4EFEC; 
+	width: 200px; 
+	height: 150px; 
+	font-size: 1.4em;
+	float: left; 
+	padding: 20px; 
+	margin: 10px; 
+	display:inline; 
+	cursor: pointer;
+	font-family: 'Open Sans Condensed', sans-serif;
+	}
+	    
+	.teaching a {
+ 	text-decoration: none;
+ 	width: 100%;
+ 	height: 100%; 
+ 	color: #E4EFEC;
+ 	
+	}
+	
+	hr {
+	border-top: 1px solid #A8E4D7; 
+	width: 60%;
+	}
+	
+
+	.teaching a:hover {
+ 	text-decoration: underline;
+ 	display: block;
+ 	width: 100%;
+ 	height: 100%;
+ 	color: #E4EFEC;
+	}
+	
+	.statement p {font-size: 1.6em;}
+	
+	.contact {background-color: #02283C;}
+	.contact a {padding: 0 10px;}
