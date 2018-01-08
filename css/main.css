@@ -10,10 +10,10 @@ body {
 	
 	.hero {
 	font-family: 'Raleway', sans-serif;
-	background: url(../IMG_8248@2x.png) no-repeat right top; 
-	background-size: 250px 250px;
+	background: url(../mycard.png) no-repeat right top; 
+	background-size: 184px 184px;
 	background-position: right 80px top 40px;
-	height: 305px;
+
 	}
 	
 	h1 {
